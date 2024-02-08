@@ -1,2 +1,2 @@
 # Retro-Games
-Projet développement web sur WordPress
+Projet du cours de programmation de base de données et interactivité sur WordPress
