@@ -15,5 +15,10 @@ Projet du cours de programmation de base de données et interactivité sur WordP
 ![Maquette Nos Jeux](/tp01_etude_site_web/xd/maquette_nos_jeux.png)
 ![Maquette Contactez-Nous](/tp01_etude_site_web/xd/maquette_contacter_nous.png)
 
-# Apperçue du site Retro Games
-!![Image 1](/tp01_etude_site_web/capture_ecran/img_01.png)
+/* # Apperçue du site Retro Games
+![Image 1](/tp01_etude_site_web/capture_ecran/img_01.png)
+![Image 2](/tp01_etude_site_web/capture_ecran/img_02.png)
+![Image 3](/tp01_etude_site_web/capture_ecran/img_03.png)
+![Image 4](/tp01_etude_site_web/capture_ecran/img_04.png)
+![Image 5](/tp01_etude_site_web/capture_ecran/img_05.png)
+*/
