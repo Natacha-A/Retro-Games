@@ -2,7 +2,7 @@
 Projet du cours de programmation de base de données et interactivité sur WordPress
 
 # License
-Tous les Droits d'auteur pour vont a Natacha-A </br>
+Tous les Droits d'auteur pour vont à Natacha-A </br>
 Je n'offre aucune licence pour ce projet Retro Games
 
 # Étude de cas d'un site web
