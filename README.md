@@ -14,3 +14,7 @@ Projet du cours de programmation de base de données et interactivité sur WordP
 ![Maquette Accueil](/tp01_etude_site_web/xd/maquette_accueil.png)
 ![Maquette Nos Jeux](/tp01_etude_site_web/xd/maquette_nos_jeux.png)
 ![Maquette Contactez-Nous](/tp01_etude_site_web/xd/maquette_contacter_nous.png)
+
+# License
+Tous les Droits d'auteur pour vont a Natacha-A </br>
+Je n'offre aucune licence pour ce projet Retro Games
