@@ -1,6 +1,10 @@
 # Retro-Games
 Projet du cours de programmation de base de données et interactivité sur WordPress
 
+# License
+Tous les Droits d'auteur pour vont a Natacha-A </br>
+Je n'offre aucune licence pour ce projet Retro Games
+
 # Étude de cas d'un site web
 [Documentation](/tp01_etude_site_web/remise/abdallah_natacha_tp01_420_v34.pdf)
 
@@ -15,6 +19,4 @@ Projet du cours de programmation de base de données et interactivité sur WordP
 ![Maquette Nos Jeux](/tp01_etude_site_web/xd/maquette_nos_jeux.png)
 ![Maquette Contactez-Nous](/tp01_etude_site_web/xd/maquette_contacter_nous.png)
 
-# License
-Tous les Droits d'auteur pour vont a Natacha-A </br>
-Je n'offre aucune licence pour ce projet Retro Games
+
